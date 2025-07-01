@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritesh Thapa
 - 👀 I’m interested in coding, playing football and watching football too
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently working as web Developer
 - 📫 How to reach me: www.reteshthapa.com.np
 
 <!---
